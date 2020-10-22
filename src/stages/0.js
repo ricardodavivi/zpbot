@@ -14,7 +14,7 @@ function execute(user, msg, contato) {
   return [
     `Olá ${contato} sou uma assistente virtual e me chamo Brook, 
     esse é meu novo aplicativo, lhe ajudará a fazer compras com mais 
-    facilidade, é só apertar no link: 'https://meuappdelivery.netlify.app/'`,
+    facilidade, é só apertar no link: 'https://visa-app-com.umbler.net'`,
     //menu,
   ];
 }
